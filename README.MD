@@ -1,4 +1,4 @@
-Run interpreter.py to start application
+Run interpreter.py to start application, Space button to register letters, escape to generate audio.
 
 ASL2Morse Interpreter - Paarth Batra, Bisman Sahni
 
